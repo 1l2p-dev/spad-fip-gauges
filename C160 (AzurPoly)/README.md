@@ -1,6 +1,6 @@
 # C160 (AzurPoly) gauges
 
-These gauges are designed for the AzurPoly [C-160 Transall](https://azurpolygroup.com/c-160-transall/)
+These gauges are designed for the AzurPoly [C-160 Transall](https://azurpolygroup.com/c-160-transall/).
 
 The .snp file contains all the 9 gauges.
 
