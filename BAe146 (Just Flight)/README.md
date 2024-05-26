@@ -1,6 +1,6 @@
 # BAe-146 (Just Flight) gauges
 
-These .snp gauges are designed for the Just Flight 146 Professional (https://www.justflight.com/product/146-professional-microsoft-flight-simulator)
+These .snp gauges are designed for the Just Flight [146 Professional](https://www.justflight.com/product/146-professional-microsoft-flight-simulator).
 
 BAE146.zip is the full archive.
 
