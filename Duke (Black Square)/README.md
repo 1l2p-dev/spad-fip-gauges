@@ -2,7 +2,7 @@
 
 These .snp gauges are designed for the Black Square [Duke](https://www.justflight.com/product/black-square-piston-duke) (mostly for the piston version).
 
-DUKE.zip is the full archive.
+BKSQ_DUKE.zip is the full archive.
 
 ![Screenshot_804](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/0fd7428d-bc5d-45a1-b8c5-191e280e01e6)
 
