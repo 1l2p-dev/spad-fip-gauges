@@ -1,6 +1,7 @@
 # A310 (iniBuilds) gauges
 
-These gauges are designed for the MSFS 40th Anniversary Edition A310-300 version developped by iniBuilds for Microsoft (freely available in-game on the MSFS Marketplace).
+These .snp gauges are designed for the MSFS 40th Anniversary Edition A310-300 version developped by iniBuilds for Microsoft (freely available in-game on the MSFS Marketplace).
+A310.zip is the full archive.
 
 ![Screenshot_790](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/c976bf46-fb9e-412f-9bf2-c992f40d77ea)
 
