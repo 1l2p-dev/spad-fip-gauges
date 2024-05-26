@@ -4,7 +4,7 @@ These .snp gauges are designed for the MSFS 40th Anniversary Edition A310-300 ve
 
 A310.zip is the full archive.
 
-![Screenshot_790](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/c976bf46-fb9e-412f-9bf2-c992f40d77ea)
+![Screenshot_790](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/73e58679-e4b1-482e-8009-e00e78126869)
 
 # Special Features
 
