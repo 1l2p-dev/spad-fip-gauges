@@ -7,6 +7,7 @@ You'll find here all my free Microsoft Flight Simulator [SPAD.neXt](https://www.
 # Installation
 
 Browse and download the .snp files or the .zip archives you want to your SPAD.neXt FIP gauges folder.
+More information and support can be found on [SPAD.neXt Discord](https://discord.gg/84H6QUmpBU).
 
 # Available aircraft gauges list
 
