@@ -1,6 +1,6 @@
 # A32 (Fenix) gauges
 
-These .snp gauges are designed for the [Fenix A320](https://fenixsim.com/)
+These .snp gauges are designed for the [Fenix A320](https://fenixsim.com/).
 
 A320_FENIX.zip is the full archive.
 
