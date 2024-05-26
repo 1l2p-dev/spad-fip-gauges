@@ -1,4 +1,4 @@
-# A310 (initBuilds) gauges
+# A310 (iniBuilds) gauges
 
 These gauges are designed for the MSFS 40th Anniversary Edition A310-300 version developped by iniBuilds for Microsoft (freely available in-game on the MSFS Marketplace).
 
