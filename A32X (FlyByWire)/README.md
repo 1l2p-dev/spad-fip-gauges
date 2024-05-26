@@ -1,6 +1,6 @@
 # A32X (FlyByWire) gauges
 
-These .snp gauges are designed for the FlyByWire A32X
+These .snp gauges are designed for the [FlyByWire A32X](https://flybywiresim.com/a32nx/)
 
 A32X.zip is the full archive.
 
