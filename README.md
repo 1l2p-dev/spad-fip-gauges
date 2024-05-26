@@ -21,3 +21,9 @@ More information and support can be found on [SPAD.neXt Discord](https://discord
 - Duke (Black Square) - 14 gauges (last update 05-21-2024)
 - Scrapyard Monster (Flying Fries) - 11 gauges (last update 05-02-2024)
 - XF11 (Flying Fries) - 12 gauges (last update 02-04-2024)
+
+# Support
+
+Feel free to support by ["Buying Me a Coffee" ](https://buymeacoffee.com/1l2p)
+
+[![buymeabigairplane](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/db47cd19-976c-4e12-ae8c-80bd245a558b)](https://buymeacoffee.com/1l2p)
