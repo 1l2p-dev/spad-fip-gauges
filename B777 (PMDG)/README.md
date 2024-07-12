@@ -2,10 +2,7 @@
 
 These .snp gauges are designed for the [PMDG](https://pmdg.com/msfs/) B777.
 
-![B77_STBY](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/7ac8e744-cf4b-4e59-9881-7fd7847d9fbc)
-
-
-![B777_DSP](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/fc935a2b-7983-4102-b908-e76eba362e03)
+![B777_gauges_10](https://github.com/user-attachments/assets/41187872-f7f5-4113-a5dd-342d3a20e23d)
 
 # Special Features
 
