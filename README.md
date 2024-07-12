@@ -11,11 +11,11 @@ More information and support can be found on [SPAD.neXt Discord](https://discord
 
 # Available aircraft gauges list
 
-- A310 (iniBuilds) - 17 gauges (last update 09-07-2024)
+- A310 (iniBuilds) - 17 gauges (last update 07-09-2024)
 - A320 (Fenix) - 11 gauges (last update 03-06-2023)  
 - A32X (FlyByWire) - 9 gauges (last update 02-19-2024)
 - B737 (PMDG) - 14 gauges (last update 02-05-2024)
-- B777 (PMDG) - 4 gauges (last update 08-09-2024)
+- B777 (PMDG) - 10 gauges (last update 07-12-2024)
 - BAe146 (JustFlight) - 21 gauges (last update 04-29-2024)
 - Bronco OV10 (AzurPoly) - 7 gauges (last update 05-15-2024)
 - C160 Transall (AzurPoly) - 9 gauges (last update 02-07-2024)
