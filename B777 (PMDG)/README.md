@@ -2,13 +2,15 @@
 
 These .snp gauges are designed for the [PMDG](https://pmdg.com/msfs/) B777.
 
-![B777_gauges_10](https://github.com/user-attachments/assets/41187872-f7f5-4113-a5dd-342d3a20e23d)
-
-![B777_ABRK_TRIMS](https://github.com/user-attachments/assets/7b94beb3-53d7-43c2-8047-8451f92b1bd1)
+![B777_gauges_13](https://github.com/user-attachments/assets/998e4097-6c9a-4de6-acf0-96d63033c98b)
 
 # Special Features
 
 When available, long press on the FIP S6 button will display a quick help.
+
+# Preview
+
+![B777_preview](https://github.com/user-attachments/assets/52274caf-a1d2-4533-ae8c-17ebcf848bea)
 
 # Support
 
