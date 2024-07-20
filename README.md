@@ -11,6 +11,7 @@ More information and support can be found on [SPAD.neXt Discord](https://discord
 
 # Available aircraft gauges list
 
+- A300 (iniBuilds) - 16 gauges (last update 07-20-2024)
 - A310 (iniBuilds) - 17 gauges (last update 07-09-2024)
 - A320 (Fenix) - 11 gauges (last update 03-06-2023)  
 - A32X (FlyByWire) - 9 gauges (last update 02-19-2024)
