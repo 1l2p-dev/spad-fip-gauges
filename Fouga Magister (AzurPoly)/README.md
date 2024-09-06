@@ -15,5 +15,3 @@ Feel free to support by ["Buying Me a Coffee" ](https://buymeacoffee.com/1l2p)
 # Previews
 
 ![Fouga_FIP_Gauges_Preview_1](https://github.com/user-attachments/assets/22d4f2e7-e1c8-4512-9813-109ce375701e)
-
-<img src="https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/e1f75590-853e-4999-acbc-f9aa804d3797" width="50%">
