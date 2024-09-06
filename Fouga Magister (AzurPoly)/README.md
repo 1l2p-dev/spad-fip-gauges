@@ -6,6 +6,10 @@ FOUGA.zip is the full archive.
 
 ![FOUGA_FIP_GAUGES](https://github.com/user-attachments/assets/2833318b-907e-4446-bbd6-743776e7faa6)
 
+# Special Features
+
+When available, long press on the FIP S6 button will display a quick help.
+
 # Support
 
 Feel free to support by ["Buying Me a Coffee" ](https://buymeacoffee.com/1l2p)
