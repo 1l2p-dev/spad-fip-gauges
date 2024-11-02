@@ -6,6 +6,9 @@ The .snp file contains all the 9 gauges.
 
 ![Screenshot_802](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/5c821eab-3fa7-4880-8ec6-48d8d09bce51)
 
+![c160_alarms_flares](https://github.com/user-attachments/assets/458ff9c1-ff10-4a0b-b0d2-ceae3291cdd9)
+
+
 # Special Features
 
 When available, long press on the FIP S6 button will display a quick help.
