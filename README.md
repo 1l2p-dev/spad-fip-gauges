@@ -19,7 +19,7 @@ More information and support can be found on [SPAD.neXt Discord](https://discord
 - B777 (PMDG) - 13 gauges (last update 07-16-2024)
 - BAe146 (JustFlight) - 23 gauges (last update 09-28-2024)
 - Bronco OV10 (AzurPoly) - 7 gauges (last update 05-15-2024)
-- C160 Transall (AzurPoly) - 9 gauges (last update 02-07-2024)
+- C160 Transall (AzurPoly) - 11 gauges (last update 11-02-2024)
 - Duke (Black Square) - 14 gauges (last update 05-21-2024)
 - Fouga Magister (AzurPoly) - 14 gauges (last update 09-08-2024)
 - Scrapyard Monster (Flying Fries) - 11 gauges (last update 05-02-2024)
