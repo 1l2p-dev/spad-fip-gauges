@@ -12,6 +12,8 @@ A380X.zip is the full archive.
 
 When available, long press on the FIP S6 button will display a quick help.
 
+![baro_help](https://github.com/user-attachments/assets/e11f6f5c-ba75-467e-a95f-bf9d1a056630)
+
 # Support
 
 Feel free to support by ["Buying Me a Coffee" ](https://buymeacoffee.com/1l2p)
