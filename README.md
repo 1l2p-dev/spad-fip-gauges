@@ -15,7 +15,7 @@ More information and support can be found on [SPAD.neXt Discord](https://discord
 - A310 (iniBuilds) - 17 gauges (last update 07-09-2024)
 - A320 (Fenix) - 11 gauges (last update 03-06-2023)  
 - A32X (FlyByWire) - 9 gauges (last update 02-19-2024)
-- A380X (FlyByWire) - 7 gauges (last update 11-13-2024)
+- A380X (FlyByWire) - 11 gauges (last update 11-18-2024)
 - B737 (PMDG) - 14 gauges (last update 02-05-2024)
 - B777 (PMDG) - 13 gauges (last update 07-16-2024)
 - BAe146 (JustFlight) - 23 gauges (last update 09-28-2024)
