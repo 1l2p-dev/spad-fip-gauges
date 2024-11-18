@@ -4,9 +4,11 @@ These .snp gauges are designed for the [FlyByWire A380X](https://flybywiresim.co
 
 A380X.zip is the full archive.
 
-![A380X_FBW_GAUGES](https://github.com/user-attachments/assets/81bc1f2d-99d7-409d-854d-216a3cbde054)
+![A380_ALL_GAUGES](https://github.com/user-attachments/assets/9959f606-31a8-4942-8dd8-aaab6e8a992c)
 
 ![a380x_efis](https://github.com/user-attachments/assets/ff35bce2-2675-42bb-9321-a465a802144f) ![A380_FBW_ECP](https://github.com/user-attachments/assets/e6f1b7e6-b674-4afb-b359-6d040dc3441e)
+
+![A380_FUEL_LEFT](https://github.com/user-attachments/assets/05f1f4e3-6d17-42c2-87da-46f5d64bc33a) ![A380_FUEL_RIGHT](https://github.com/user-attachments/assets/b3c4b768-b977-4ac9-a565-741416d53273)
 
 # Special Features
 
