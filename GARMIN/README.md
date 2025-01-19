@@ -17,6 +17,4 @@ Feel free to support by ["Buying Me a Coffee" ](https://buymeacoffee.com/1l2p)
 
 # Previews
 
-<img src="https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/e82cc78f-f684-467f-8b57-bf24034f9d7f" width="50%">
-
 ![1L2P_GFC500_preview](https://github.com/user-attachments/assets/e3be8ed2-09b2-426b-83c6-d665791b219c)
