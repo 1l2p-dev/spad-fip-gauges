@@ -4,6 +4,7 @@ I will post here my GARMIN's FIP Gauges.
 
 # The GARMIN GFC 5000 is the first one
 Its layout is split in half, and obviously works best using two side by side FIP devices.
+
 Long press on FIP S6 (>>) and S1 (<<) buttons to select left or right part.
 
 ![GFC500_left](https://github.com/user-attachments/assets/fe96ba4a-54e0-4c85-be0b-8e0e04635bb3)
