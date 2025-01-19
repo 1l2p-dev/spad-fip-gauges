@@ -23,6 +23,7 @@ More information and support can be found on [SPAD.neXt Discord](https://discord
 - C160 Transall (AzurPoly) - 11 gauges (last update 11-02-2024)
 - Duke (Black Square) - 14 gauges (last update 05-21-2024)
 - Fouga Magister (AzurPoly) - 14 gauges (last update 09-08-2024)
+- GARMIN (1L2P) - 1 gauge (last update 01-19-2025)
 - Scrapyard Monster (Flying Fries) - 11 gauges (last update 05-02-2024)
 - XF11 (Flying Fries) - 12 gauges (last update 02-04-2024)
 
