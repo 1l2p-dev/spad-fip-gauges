@@ -3,7 +3,7 @@
 
 ![VirtualDesktop Android-20251022-223826](https://github.com/user-attachments/assets/d274bb48-0c65-49ad-8d0e-ab33278ad953)
 
-These gauge are designed for the Flying Fries [QUASAR](https://flyingfries.com/products/quasar).
+This SPAD gauge is designed for the amazing Flying Fries [QUASAR](https://flyingfries.com/products/quasar).
 
 The .snp file contains one gauge with multi pages.
 
