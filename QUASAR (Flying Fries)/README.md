@@ -35,6 +35,6 @@ Feel free to support by ["Buying Me a Coffee" ](https://buymeacoffee.com/1l2p)
 
 [![buymeabigairplane](https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/db47cd19-976c-4e12-ae8c-80bd245a558b)](https://buymeacoffee.com/1l2p)
 
-# Previews
+# Preview
 
 <img src="https://github.com/1l2p-dev/spad-fip-gauges/assets/26790042/974de6ef-dac6-4903-887e-79b2b1af8053" width="50%">
