@@ -6,21 +6,15 @@ The .snp file contains one gauge with multi pages.
 
 Use left S1 to S5 buttons or Left Dial to navigate between pages
 
-S1 - Fuel flow and EICAS 
+- S1 - Fuel flow and EICAS 
+- S2 - Trim, range and cruise status (S2 long press - Start brute force scan in order to reveal all Quasar hidden secrets)
+- S3 - Engines front display
+- S4 - Fuel front display
+- S5 - Fuel system panel
+- S6 - Toggle Hydrogren Electrolyzers when in fuel system panel page (S6 long press - Quick help)
 
-S2 - Trim, range and cruise status (S2 long press - Start brute force scan in order to reveal all Quasar hidden secrets)
-
-S3 - Engines front display
-
-S4 - Fuel front display
-
-S5 - Fuel system panel
-
-S6 - Toggle Hydrogren Electrolyzers when in fuel system panel page (S6 long press - Quick help)
-
-Left Dial - Select page
-
-Right Dial - Quick set all interior lights
+- Left Dial - Select page
+- Right Dial - Quick set all interior lights
 
 Batteries and Avionics have to be turned ON to operate the gauge.
 
