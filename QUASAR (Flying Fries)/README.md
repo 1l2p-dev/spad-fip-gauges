@@ -1,4 +1,4 @@
-# QUASAR (Flying Fries) multi gauge
+# QUASAR (Flying Fries) Multi Gauges
 
 
 ![VirtualDesktop Android-20251022-223826](https://github.com/user-attachments/assets/d274bb48-0c65-49ad-8d0e-ab33278ad953)
