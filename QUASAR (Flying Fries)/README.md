@@ -3,11 +3,11 @@
 
 ![VirtualDesktop Android-20251022-223826](https://github.com/user-attachments/assets/d274bb48-0c65-49ad-8d0e-ab33278ad953)
 
-This SPAD gauge is designed for the amazing Flying Fries [QUASAR](https://flyingfries.com/products/quasar).
+These SPAD gauges are designed for the amazing Flying Fries [QUASAR](https://flyingfries.com/products/quasar).
 
-The .snp file contains one gauge with multi pages.
+The .snp file contains one gauge but with multiple pages.
 
-Use left S1 to S5 buttons or Left Dial to navigate between pages
+Use left S1 to S5 buttons or Left Dial to navigate between pages.
 
 - S1 - Fuel flow and EICAS 
 - S2 - Trim, range and cruise status (S2 long press - Start brute force scan in order to reveal all Quasar hidden secrets)
