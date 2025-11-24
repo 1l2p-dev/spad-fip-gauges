@@ -25,6 +25,7 @@ More information and support can be found on [SPAD.neXt Discord](https://discord
 - Fouga Magister (AzurPoly) - 14 gauges (last update 09-08-2024)
 - GABRIEL BK160-TR (Flying Fries) - 3 gauges (last update 02-25-2025)
 - GARMIN (1L2P) - 1 gauge (last update 01-19-2025)
+- QUASAR (Flying Fries) - 1 multi gauge (last update 11-24-2025)
 - Scrapyard Monster (Flying Fries) - 11 gauges (last update 05-02-2024)
 - XF11 (Flying Fries) - 12 gauges (last update 02-04-2024)
 
